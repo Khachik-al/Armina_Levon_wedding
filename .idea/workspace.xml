@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bca584bc-662c-4729-84ec-a702af391daa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/audio/John-Legend–All-of-Me.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/background/levon-armina.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/[locale]/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[locale]/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Audio/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Audio/index.tsx" afterDir="false" />
-    </list>
+    <list default="true" id="bca584bc-662c-4729-84ec-a702af391daa" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,9 +13,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2hplhuIgl9JZKNVDcXehkanEe4g" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -36,13 +31,13 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/user/Desktop/levon-armina-invitation",
+    "last_opened_file_path": "/Users/user/Desktop/armina-levon-invitation",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "/Users/user/Desktop/levon-armina-invitation/node_modules/typescript/lib",
+    "ts.external.directory.path": "/Users/user/Desktop/armina-levon-invitation/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -62,6 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1718299021485</updated>
       <workItem from="1718299022917" duration="23106000" />
+      <workItem from="1718509630012" duration="2022000" />
     </task>
     <servers />
   </component>
@@ -77,7 +73,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/components/InvitationForm/index.tsx</url>
           <line>121</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
