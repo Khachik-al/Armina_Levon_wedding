@@ -25,7 +25,7 @@ export async function generateMetadata({
   const t = await getTranslations({ locale, namespace: 'Metadata' });
 
   return {
-    metadataBase: new URL('https://tigran-mariam.wedding'),
+    metadataBase: new URL('https://armina-levon-wedding.vercel.app'),
     title: t('title'),
     description: t('description'),
     openGraph: {
@@ -33,13 +33,13 @@ export async function generateMetadata({
       siteName: t('title'),
       title: t('title'),
       description: t('description'),
-      images: '/TM.png',
+      images: '/LA.png',
     },
     twitter: {
       site: t('title'),
       title: t('title'),
       description: t('description'),
-      images: '/TM.png',
+      images: '/LA.png',
     },
   };
 }
